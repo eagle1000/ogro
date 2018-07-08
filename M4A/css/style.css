@@ -11,15 +11,11 @@
     text-transform: none;
 }
 
-/*body {
+body {
     margin: 0px;
     overflow: hidden;
     text-align: center;
-    height: 576px;
+    height: 636px;
     width:1024px;
 }
 
-canvas{
-    height: 576px !important;
-    width:1024px !important;
-}*/
