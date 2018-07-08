@@ -16,3 +16,8 @@ body {
     width:1024px;
 }
 
+canvas {
+    height: 700px;
+    width: 1024px;
+}
+
