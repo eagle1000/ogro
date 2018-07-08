@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "ogredancing12",
+	"frame": {"x":2,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+},
+{
+	"filename": "ogredancing13",
+	"frame": {"x":284,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ogrodancing02.png",
+	"format": "RGBA4444",
+	"size": {"w":566,"h":311},
+	"scale": "0.4462",
+	"smartupdate": "$TexturePacker:SmartUpdate:fb611b0d66c7c8fdaaeb8afc3cf967ad:db459a18e7d20d5d0e40402b149b0d83:504874686b7ba9663d1ba5f957db80c6$"
+}
+}

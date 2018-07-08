@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "ogredancing06",
+	"frame": {"x":2,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+},
+{
+	"filename": "ogredancing07",
+	"frame": {"x":284,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+},
+{
+	"filename": "ogredancing08",
+	"frame": {"x":566,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+},
+{
+	"filename": "ogredancing09",
+	"frame": {"x":848,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+},
+{
+	"filename": "ogredancing10",
+	"frame": {"x":1130,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+},
+{
+	"filename": "ogredancing11",
+	"frame": {"x":1412,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ogrodancing01.png",
+	"format": "RGBA4444",
+	"size": {"w":1694,"h":311},
+	"scale": "0.4462",
+	"smartupdate": "$TexturePacker:SmartUpdate:96ef14f917498ed72c24509c6591d03e:d1a918119eefaf196afc15d3467037b6:9cc0109565a92a0e91f7859ddaedeb89$"
+}
+}

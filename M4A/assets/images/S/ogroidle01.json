@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "idle06",
+	"frame": {"x":2,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+},
+{
+	"filename": "idle07",
+	"frame": {"x":284,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ogroidle01.png",
+	"format": "RGBA4444",
+	"size": {"w":566,"h":311},
+	"scale": "0.4462",
+	"smartupdate": "$TexturePacker:SmartUpdate:166dcd4b8a27027cf775c7ea0bb234a6:0800fba4601de6b9b7f020b96d44cfb9:fa5ff4112a3c857588f33ad83ac5b11c$"
+}
+}

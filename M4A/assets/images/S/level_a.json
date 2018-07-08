@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "bike00",
+	"frame": {"x":2,"y":2,"w":367,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":279},
+	"sourceSize": {"w":367,"h":279}
+},
+{
+	"filename": "car00",
+	"frame": {"x":371,"y":2,"w":379,"h":245},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":379,"h":245},
+	"sourceSize": {"w":379,"h":245}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "levelA.png",
+	"format": "RGBA4444",
+	"size": {"w":752,"h":283},
+	"scale": "0.4462",
+	"smartupdate": "$TexturePacker:SmartUpdate:08dfba7326fb70c3b3c4fc4fe160fee3:e65ecb3a1e46969a3c59562e0749b193:48e2d9b377e61a55178addd528fcbae1$"
+}
+}

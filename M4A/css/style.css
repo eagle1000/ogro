@@ -1,0 +1,25 @@
+﻿@font-face {
+    font-family: "chelseamarket";
+    font-weight: 700;
+    font-style: normal;
+    src: url('/games-directory/assets/fonts/chelseamarket.eot'); /* IE9 Compat Modes */
+    src: url('/games-directory/assets/fonts/chelseamarket.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/games-directory/assets/fonts/chelseamarket.woff2') format('woff2'), /* Super Modern Browsers */
+    url('/games-directory/assets/fonts/chelseamarket.woff') format('woff'), /* Pretty Modern Browsers */
+    url('/games-directory/assets/fonts/chelseamarket.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/games-directory/assets/fonts/chelseamarket.svg#svgFontName') format('svg'); /* Legacy iOS */
+    text-transform: none;
+}
+
+/*body {
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    height: 576px;
+    width:1024px;
+}
+
+canvas{
+    height: 576px !important;
+    width:1024px !important;
+}*/

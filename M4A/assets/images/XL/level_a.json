@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "bike00",
+	"frame": {"x":826,"y":2,"w":822,"h":626},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":822,"h":626},
+	"sourceSize": {"w":822,"h":626}
+},
+{
+	"filename": "bike01",
+	"frame": {"x":853,"y":630,"w":822,"h":626},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":822,"h":626},
+	"sourceSize": {"w":822,"h":626}
+},
+{
+	"filename": "bike02",
+	"frame": {"x":2,"y":2,"w":822,"h":633},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":822,"h":633},
+	"sourceSize": {"w":822,"h":633}
+},
+{
+	"filename": "car00",
+	"frame": {"x":853,"y":1258,"w":849,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":849,"h":550},
+	"sourceSize": {"w":849,"h":550}
+},
+{
+	"filename": "car01",
+	"frame": {"x":2,"y":637,"w":849,"h":558},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":849,"h":558},
+	"sourceSize": {"w":849,"h":558}
+},
+{
+	"filename": "car02",
+	"frame": {"x":2,"y":1197,"w":849,"h":558},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":849,"h":558},
+	"sourceSize": {"w":849,"h":558}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "levelA.png",
+	"format": "RGBA8888",
+	"size": {"w":1704,"h":1817},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:06f674ecd3b3fc12d35a3e9a330f5a59:bc9e2bb32430508e6bde26d10e7d50a7:48e2d9b377e61a55178addd528fcbae1$"
+}
+}

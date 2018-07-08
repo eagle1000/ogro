@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "helicopter00",
+	"frame": {"x":2,"y":203,"w":343,"h":275},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":343,"h":275},
+	"sourceSize": {"w":343,"h":275}
+},
+{
+	"filename": "plane00",
+	"frame": {"x":2,"y":2,"w":349,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":349,"h":199},
+	"sourceSize": {"w":349,"h":199}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "levelB.png",
+	"format": "RGBA8888",
+	"size": {"w":353,"h":480},
+	"scale": "0.4462",
+	"smartupdate": "$TexturePacker:SmartUpdate:04b7441ba0a669f553092a7fa15333e8:20701b83afeff165ed05481f4ff94665:b0fc51913883d5db2002f8040582382e$"
+}
+}

@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "boat00",
+	"frame": {"x":852,"y":2,"w":813,"h":770},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":813,"h":770},
+	"sourceSize": {"w":813,"h":770}
+},
+{
+	"filename": "boat01",
+	"frame": {"x":2,"y":774,"w":813,"h":770},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":813,"h":770},
+	"sourceSize": {"w":813,"h":770}
+},
+{
+	"filename": "boat02",
+	"frame": {"x":2,"y":2,"w":848,"h":770},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":848,"h":770},
+	"sourceSize": {"w":848,"h":770}
+},
+{
+	"filename": "submarine00",
+	"frame": {"x":1667,"y":2,"w":490,"h":646},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":490,"h":646},
+	"sourceSize": {"w":490,"h":646}
+},
+{
+	"filename": "submarine01",
+	"frame": {"x":1667,"y":650,"w":490,"h":646},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":490,"h":646},
+	"sourceSize": {"w":490,"h":646}
+},
+{
+	"filename": "submarine02",
+	"frame": {"x":817,"y":774,"w":788,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":788,"h":720},
+	"sourceSize": {"w":788,"h":720}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "levelC.png",
+	"format": "RGBA8888",
+	"size": {"w":2159,"h":1546},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:28952785dd7f07b94e5ff6683e2a1d8e:d95ac36077f0fa1a2cf3c381414b79eb:9b16133da6afa6d0fcd1a8a60cd2ca9f$"
+}
+}

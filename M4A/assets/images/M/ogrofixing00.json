@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "ogrofixing00",
+	"frame": {"x":2,"y":2,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+},
+{
+	"filename": "ogrofixing01",
+	"frame": {"x":2,"y":439,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+},
+{
+	"filename": "ogrofixing02",
+	"frame": {"x":400,"y":2,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+},
+{
+	"filename": "ogrofixing03",
+	"frame": {"x":400,"y":439,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+},
+{
+	"filename": "ogrofixing04",
+	"frame": {"x":798,"y":2,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+},
+{
+	"filename": "ogrofixing05",
+	"frame": {"x":798,"y":439,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ogrofixing00.png",
+	"format": "RGBA4444",
+	"size": {"w":1196,"h":876},
+	"scale": "0.6308",
+	"smartupdate": "$TexturePacker:SmartUpdate:b89228ab7dd3329fc79cff70bf4c0a86:913d19fc11823b14d9005b7ee4584a4e:833d937c84b60fd9c23c0c644aaa5ecf$"
+}
+}

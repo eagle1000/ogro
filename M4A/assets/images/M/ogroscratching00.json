@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "scratching00",
+	"frame": {"x":2,"y":2,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+},
+{
+	"filename": "scratching01",
+	"frame": {"x":2,"y":439,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+},
+{
+	"filename": "scratching02",
+	"frame": {"x":400,"y":2,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+},
+{
+	"filename": "scratching03",
+	"frame": {"x":400,"y":439,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+},
+{
+	"filename": "scratching04",
+	"frame": {"x":798,"y":2,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+},
+{
+	"filename": "scratching05",
+	"frame": {"x":798,"y":439,"w":396,"h":435},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":435},
+	"sourceSize": {"w":396,"h":435}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ogroscratching00.png",
+	"format": "RGBA4444",
+	"size": {"w":1196,"h":876},
+	"scale": "0.6308",
+	"smartupdate": "$TexturePacker:SmartUpdate:789478cd02b8ffd29ae57e50cf16a2c2:7f5d61be91d6ef39feb179a6baa592f4:5576a018ebebc685eb9c7cb1aa3c3627$"
+}
+}

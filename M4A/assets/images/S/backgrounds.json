@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "background01",
+	"frame": {"x":2,"y":2,"w":580,"h":357},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":357},
+	"sourceSize": {"w":580,"h":357}
+},
+{
+	"filename": "background02",
+	"frame": {"x":584,"y":348,"w":236,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":236,"h":114},
+	"sourceSize": {"w":236,"h":114}
+},
+{
+	"filename": "closebutton00",
+	"frame": {"x":822,"y":396,"w":52,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":53},
+	"sourceSize": {"w":52,"h":53}
+},
+{
+	"filename": "closebutton01",
+	"frame": {"x":2,"y":361,"w":52,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":53},
+	"sourceSize": {"w":52,"h":53}
+},
+{
+	"filename": "playbutton00",
+	"frame": {"x":2,"y":416,"w":97,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":46},
+	"sourceSize": {"w":97,"h":46}
+},
+{
+	"filename": "playbutton01",
+	"frame": {"x":101,"y":416,"w":97,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":46},
+	"sourceSize": {"w":97,"h":46}
+},
+{
+	"filename": "replaybutton00",
+	"frame": {"x":56,"y":361,"w":52,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":53},
+	"sourceSize": {"w":52,"h":53}
+},
+{
+	"filename": "replaybutton01",
+	"frame": {"x":110,"y":361,"w":52,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":53},
+	"sourceSize": {"w":52,"h":53}
+},
+{
+	"filename": "title",
+	"frame": {"x":584,"y":190,"w":293,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":293,"h":156},
+	"sourceSize": {"w":293,"h":156}
+},
+{
+	"filename": "tokensgray",
+	"frame": {"x":822,"y":348,"w":65,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":46},
+	"sourceSize": {"w":65,"h":46}
+},
+{
+	"filename": "woodtitle",
+	"frame": {"x":584,"y":2,"w":305,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":305,"h":186},
+	"sourceSize": {"w":305,"h":186}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "backgrounds.png",
+	"format": "RGBA8888",
+	"size": {"w":891,"h":464},
+	"scale": "0.4462",
+	"smartupdate": "$TexturePacker:SmartUpdate:ce4ca0b6c8d2974b753053c732af6488:78d80de2be44e9058aba9b17ea8ffd3d:e0492ec304aa556908ee4839e8ad3859$"
+}
+}

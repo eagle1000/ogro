@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "boat00",
+	"frame": {"x":2,"y":2,"w":663,"h":628},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":663,"h":628},
+	"sourceSize": {"w":663,"h":628}
+},
+{
+	"filename": "submarine00",
+	"frame": {"x":667,"y":2,"w":400,"h":527},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":527},
+	"sourceSize": {"w":400,"h":527}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "levelC.png",
+	"format": "RGBA8888",
+	"size": {"w":1069,"h":632},
+	"scale": "0.8154",
+	"smartupdate": "$TexturePacker:SmartUpdate:4fb768af50ab1aa623914d82bce6ce7d:e83f136f4a0e6b58ac58e2541d74249a:9b16133da6afa6d0fcd1a8a60cd2ca9f$"
+}
+}

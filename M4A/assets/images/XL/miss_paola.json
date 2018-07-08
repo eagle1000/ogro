@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "missPaola00",
+	"frame": {"x":843,"y":2,"w":187,"h":379},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":379},
+	"sourceSize": {"w":187,"h":379}
+},
+{
+	"filename": "missPaola01",
+	"frame": {"x":610,"y":383,"w":206,"h":378},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":378},
+	"sourceSize": {"w":206,"h":378}
+},
+{
+	"filename": "missPaola02",
+	"frame": {"x":2,"y":2,"w":213,"h":378},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":378},
+	"sourceSize": {"w":213,"h":378}
+},
+{
+	"filename": "missPaola03",
+	"frame": {"x":217,"y":2,"w":213,"h":378},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":378},
+	"sourceSize": {"w":213,"h":378}
+},
+{
+	"filename": "missPaola04",
+	"frame": {"x":399,"y":383,"w":209,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":377},
+	"sourceSize": {"w":209,"h":377}
+},
+{
+	"filename": "missPaola05",
+	"frame": {"x":1023,"y":383,"w":206,"h":377},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":377},
+	"sourceSize": {"w":206,"h":377}
+},
+{
+	"filename": "missPaola06",
+	"frame": {"x":818,"y":383,"w":203,"h":378},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":378},
+	"sourceSize": {"w":203,"h":378}
+},
+{
+	"filename": "missPaola07",
+	"frame": {"x":1032,"y":2,"w":201,"h":378},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":378},
+	"sourceSize": {"w":201,"h":378}
+},
+{
+	"filename": "missPaola08",
+	"frame": {"x":432,"y":2,"w":208,"h":379},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":379},
+	"sourceSize": {"w":208,"h":379}
+},
+{
+	"filename": "missPaola09",
+	"frame": {"x":2,"y":382,"w":207,"h":379},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":379},
+	"sourceSize": {"w":207,"h":379}
+},
+{
+	"filename": "missPaola10",
+	"frame": {"x":642,"y":2,"w":199,"h":379},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":199,"h":379},
+	"sourceSize": {"w":199,"h":379}
+},
+{
+	"filename": "missPaola11",
+	"frame": {"x":211,"y":382,"w":186,"h":380},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":380},
+	"sourceSize": {"w":186,"h":380}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "missPaola.png",
+	"format": "RGBA8888",
+	"size": {"w":1236,"h":983},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fbd433d2e6bcc680061bd328ebb25886:88ca97ff0d75ca9fe145359771eb447c:964c36f64f4b5d1dab490a87d903399e$"
+}
+}

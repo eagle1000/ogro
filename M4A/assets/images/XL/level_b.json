@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "helicopter00",
+	"frame": {"x":2,"y":2,"w":768,"h":616},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":616},
+	"sourceSize": {"w":768,"h":616}
+},
+{
+	"filename": "helicopter01",
+	"frame": {"x":868,"y":616,"w":768,"h":616},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":616},
+	"sourceSize": {"w":768,"h":616}
+},
+{
+	"filename": "helicopter02",
+	"frame": {"x":2,"y":1067,"w":768,"h":616},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":616},
+	"sourceSize": {"w":768,"h":616}
+},
+{
+	"filename": "plane00",
+	"frame": {"x":772,"y":1234,"w":783,"h":445},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":783,"h":445},
+	"sourceSize": {"w":783,"h":445}
+},
+{
+	"filename": "plane01",
+	"frame": {"x":2,"y":620,"w":864,"h":445},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":864,"h":445},
+	"sourceSize": {"w":864,"h":445}
+},
+{
+	"filename": "plane02",
+	"frame": {"x":772,"y":2,"w":863,"h":612},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":863,"h":612},
+	"sourceSize": {"w":863,"h":612}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "levelB.png",
+	"format": "RGBA8888",
+	"size": {"w":1638,"h":1685},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ae0122439f14edb75c5a09dc85f684d9:b163b1f07dac7488358052384ac9063c:b0fc51913883d5db2002f8040582382e$"
+}
+}

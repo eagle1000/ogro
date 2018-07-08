@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "ogrofixing06",
+	"frame": {"x":2,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+},
+{
+	"filename": "ogrofixing07",
+	"frame": {"x":284,"y":2,"w":280,"h":307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":307},
+	"sourceSize": {"w":280,"h":307}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ogrofixing01.png",
+	"format": "RGBA4444",
+	"size": {"w":566,"h":311},
+	"scale": "0.4462",
+	"smartupdate": "$TexturePacker:SmartUpdate:fdf88f1ec71781161a266e715e2511d5:90c5fd87a18ee38dc94ddd1a106d9e5d:ea0e62870ea383a32846c7741770b6d3$"
+}
+}

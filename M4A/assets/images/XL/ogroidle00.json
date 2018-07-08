@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "idle00",
+	"frame": {"x":2,"y":2,"w":628,"h":689},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":628,"h":689},
+	"sourceSize": {"w":628,"h":689}
+},
+{
+	"filename": "idle01",
+	"frame": {"x":2,"y":693,"w":628,"h":689},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":628,"h":689},
+	"sourceSize": {"w":628,"h":689}
+},
+{
+	"filename": "idle02",
+	"frame": {"x":632,"y":2,"w":628,"h":689},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":628,"h":689},
+	"sourceSize": {"w":628,"h":689}
+},
+{
+	"filename": "idle03",
+	"frame": {"x":632,"y":693,"w":628,"h":689},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":628,"h":689},
+	"sourceSize": {"w":628,"h":689}
+},
+{
+	"filename": "idle04",
+	"frame": {"x":1262,"y":2,"w":628,"h":689},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":628,"h":689},
+	"sourceSize": {"w":628,"h":689}
+},
+{
+	"filename": "idle05",
+	"frame": {"x":1262,"y":693,"w":628,"h":689},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":628,"h":689},
+	"sourceSize": {"w":628,"h":689}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ogroidle00.png",
+	"format": "RGBA4444",
+	"size": {"w":1892,"h":1384},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b0a6426ee2a16b2aff3e876b0700ae52:65e529308b08451f820403627386d918:5686be55746aa1a5e3d20cac0af338c6$"
+}
+}

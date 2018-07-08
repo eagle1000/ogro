@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "scratching06",
+	"frame": {"x":2,"y":2,"w":512,"h":562},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":562},
+	"sourceSize": {"w":512,"h":562}
+},
+{
+	"filename": "scratching07",
+	"frame": {"x":516,"y":2,"w":512,"h":562},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":562},
+	"sourceSize": {"w":512,"h":562}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ogroscratching01.png",
+	"format": "RGBA4444",
+	"size": {"w":1030,"h":566},
+	"scale": "0.8154",
+	"smartupdate": "$TexturePacker:SmartUpdate:f6005f3b80323d807959fc0c13ad20ec:56d80d9566a2dc0eeda802abe162ada1:ab0c4a1cc682a1257170e8b39efd10f5$"
+}
+}
