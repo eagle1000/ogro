@@ -11,13 +11,9 @@
     text-transform: none;
 }
 
-body {
-    height: 700px;
+/*body {
+    height: 630px;
     width:1024px;
-}
+}*/
 
-canvas {
-    height: 700px;
-    width: 1024px;
-}
 
