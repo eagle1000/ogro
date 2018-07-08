@@ -12,21 +12,21 @@ var screen = {
         if (this.width <= 580) {
             this.size = 'S';
             this.gameWidth = 580;
-            this.gameHeight = 326;
+            this.gameHeight = 356;
         }
         if (this.width > 580 && this.width <= 820) {
             this.size = 'M';
             this.gameWidth = 820;
-            this.gameHeight = 460.7;
+            this.gameHeight = 504;
         }
         if (this.width > 820 && this.width <= 1060) {
             this.size = 'L';
             this.gameWidth = 1060;
-            this.gameHeight = 595.5;
+            this.gameHeight = 652;
         }
         if (this.width > 1060) {
             this.gameWidth = 1290;
-            this.gameHeight = 725;
+            this.gameHeight = 800;
             this.size = 'XL';
         }
 
