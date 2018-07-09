@@ -12,10 +12,10 @@
 }
 
 body {
-    height: 630px;
-    width:1024px;
+    height: 603px;
+    width:980px;
     margin: 0px;
-    overflow: hidden;
+    /*overflow: hidden;*/
     text-align: center;
 }
 
